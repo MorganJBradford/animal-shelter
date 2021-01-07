@@ -1,3 +1,15 @@
+body {
+  text-align: center;
+}
+
+.box {
+  background-color: lightgrey;
+  width: 200px;
+  border: 10px solid greenyellow;
+  padding: 30px;
+  margin: 10px;
+}
+
 img {
   width: 300px;
   height: 300px;
@@ -6,4 +18,5 @@ img {
 .column {
   width: 300px;
   float: left;
+  margin: 50px;
 }
