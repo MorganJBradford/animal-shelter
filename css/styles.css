@@ -1,11 +1,12 @@
 body {
   text-align: center;
+  background-color: rgb(195, 255, 254);
 }
 
 .box {
-  background-color: lightgrey;
+  background-color: rgb(206, 236, 252);
   width: 200px;
-  border: 10px solid greenyellow;
+  border: 10px solid rgb(82, 84, 164);
   padding: 30px;
   margin: auto;
 }
@@ -19,4 +20,6 @@ img {
   width: 300px;
   float: left;
   margin: 50px;
+  background-color: chartreuse;
 }
+
