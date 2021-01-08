@@ -11,18 +11,18 @@
 
 ## Description
 
-_This website display some information about Pet Protectors Animal Shelter, species they care for, and animals available for fostering._
+_This website displays some information about Pet Protectors Animal Shelter, species they care for, and animals available for fostering._
 
 ## Setup/Installation Requirements
 
 1. _Download this repository from GitHub_
 2. _Open the top directory_
-3. _Open [animal-shelter.html](animal-shelter.html) with your favorite web browser._
+3. _Open [index.html](index.html) with your favorite web browser._
 
 ## Known Bugs
 
-* _No known issues_
-* _Contact us via email if you find any issues_
+* _No known bugs_
+* _Contact us via our emails below if you find any bugs_
 
 ## License
 
